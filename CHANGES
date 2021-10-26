@@ -1,2 +1,4 @@
+1.0.1 2021-10-26
+  - changed the dataset name
 1.0.0 2021-08-27
   - This dataset contains non reconstructed data and reconstructed data with the covSoS, STARC and it's variants.
